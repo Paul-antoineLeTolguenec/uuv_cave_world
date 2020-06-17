@@ -49,6 +49,6 @@ To get a custom simulation you can use blender and create any element :
 
 
 ## Launch the simulation
-to launch the simulation you just have to go into the terminal and run :
+To launch the simulation you just have to go into the terminal and run :
 
         roslaunch uuv_cave_world simulation.launch
