@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>uuv_cave_world</name>
+  <version>0.6.11</version>
+  <description>A simple world seabed with a cave</description>
+
+  <maintainer email="paul-antoine.le_tolguenec@ensta-bretagne.org">Paul-Antoine LE TOLGUENEC</maintainer>
+  
+
+  <author email="paul-antoine.le_tolguenec@ensta-bretagne.org">Paul-Antoine LE TOLGUENEC</author>
+ 
+
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>gazebo_ros</exec_depend>
+
+  <export>
+    <gazebo_ros gazebo_media_path="${prefix}"
+                gazebo_model_path="${prefix}/models"/>
+  </export>
+</package>
