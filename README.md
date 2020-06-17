@@ -17,4 +17,8 @@ This simulation was possible thanks to the work of:
 </p></blockquote>
 Here is an overview of the generated world :
 
+<p align="center">
+
 [![video](https://github.com/Paul-antoineLeTolguenec/uuv_cave_world/blob/master/doc/video/world_cave.gif)]
+
+</p>
