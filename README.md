@@ -44,5 +44,5 @@ if you want to create your own world, you can follow the procedure [here](https:
 To get a custom simulation you can use blender and create any element :
 
 <p align="center">
-    <img src="https://github.com/Paul-antoineLeTolguenec/uuv_cave_world/master/doc/image/blender.png" width="300">
+    <img src="https://raw.githubusercontent.com/Paul-antoineLeTolguenec/uuv_cave_world/master/doc/image/blender.png" width="300">
 </p>
